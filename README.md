@@ -7,7 +7,7 @@
   
 <h4 align="center">I'm Zihad from Bangladesh. I'm a passionate about the mobile space 📱.I enjoy building Mobile Applications using Kotlin.</h4>
 
-![Zihad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdzihad89&show_icons=true&theme=radical)  
+<p align="center"> ![Zihad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdzihad89&show_icons=true&theme=radical)  </p>
 
 <a href="https://github.com/mdzihad89/github-readme-stats"><img alt="Zihad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzihad89&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
