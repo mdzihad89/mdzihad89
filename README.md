@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome To My Github Profile <img src="https://images.emojiterra.com/google/android-11/512px/1f468-1f4bb.png" width="30px"></h1>
 
 
-<h3 align="center">Glad to see you here! 🤩</h3>
+<h3> I'm Zihady👋</h3>
   
 <h4 align="center">I'm Zihad from Bangladesh. I'm a passionate about the mobile space 📱.I enjoy building Mobile Applications using Kotlin.</h4>
 
