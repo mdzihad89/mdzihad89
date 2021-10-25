@@ -5,7 +5,7 @@
 
 <h3> I'm Zihad</h3>
   
-<h2 >A Passionate Android Developer & UI/UX Designer 🚀</h2>
+<h3 >A Passionate Android Developer & UI/UX Designer 🚀</h3>
 
 ![Zihad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdzihad89&show_icons=true&theme=radical) 
 
