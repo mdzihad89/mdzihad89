@@ -14,7 +14,9 @@
 <details>
 <summury> Github Stats </summury>
 <br>
+  
 ![Zihad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdzihad89&show_icons=true&theme=radical)
+  
 </details>
 
  
