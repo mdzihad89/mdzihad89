@@ -9,6 +9,8 @@
 
 <h4 >I am a software developer and designer passionate about the mobile space. I enjoy building Mobile Applications using Kotlin & Flutter , design using Figma.I also enjoy improving my skills by learning new skills and applying them to new projects.</h4>
 
+<br />
+
 
 ![Zihad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdzihad89&show_icons=true&theme=radical) 
 
