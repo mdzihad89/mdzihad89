@@ -9,9 +9,13 @@
 <details>
 <summary> Github Stats & Used Language</summary>
 <br>
+ 
 ![Zihad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdzihad89&show_icons=true&theme=radical)
+ 
 <a href="https://github.com/mdzihad89/github-readme-stats"><img alt="Zihad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzihad89&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
 </details>
+
 ## Reach me via 👇
 
  
