@@ -11,7 +11,7 @@
 <br />
 
 <details>
-<summary> Github Stats </summary>
+<summary> Github Stats & Language</summary>
 <br>
   
 ![Zihad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdzihad89&show_icons=true&theme=radical)
