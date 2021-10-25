@@ -11,7 +11,7 @@
 <br />
 
 <details>
-<summary> Github Stats & Language</summary>
+<summary> Github Stats & Used Language</summary>
 <br>
   
 ![Zihad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdzihad89&show_icons=true&theme=radical)
@@ -20,6 +20,8 @@
 
   
 </details>
+
+## Reach me via 👇
 
  
 
