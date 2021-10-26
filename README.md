@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome To My Github Profile <img src="https://images.emojiterra.com/google/android-11/512px/1f468-1f4bb.png" width="30px"></h1>
 
-### Hi there, I'm Zihad
+### I'm Zihad
 ### A Passionate Software Developer & UI/UX Designer 
 <h4 >I am a software developer and designer passionate about the mobile space, user exprience, innovative designs and user friendly apps. I try to bring transparency, accountability, and happiness into my work by developing an internally driven approach that results in highest quality products. I enjoy building Mobile Applications using Kotlin & Flutter , design using Figma.I also enjoy improving my skills by learning new skills and applying them to new projects.</h4>
 
