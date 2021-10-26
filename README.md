@@ -7,7 +7,7 @@
 
 * 📱 Working on Meaningful mobile apps 
 * 📸 Tech Youtuber [Coding With Zihad](https://www.youtube.com/channel/UCcW_tC_52WI9IwY-XkH3sDQ)
-* 💬 Ask me about ``Android``, ``UI/UX Design``, ``Design Systems`` 
+* 💬 Ask me about ``Android``, ``UI/UX Design``, ``Design Systems``  do reach, [email](mailto:mdzihad321@gmail.com)
 * 📝 Open Source Contributor
 * 💌 Available for your next project
 
