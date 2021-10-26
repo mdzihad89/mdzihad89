@@ -26,7 +26,7 @@
 <p float="left">
  
  <a href="http://mdzihad.unaux.com/" title="Redirect to Portfolio">
-    <img src="https://user-images.githubusercontent.com/83513508/138871511-6984c278-c3d3-4007-a35c-5830a84842e7.png" width="120" alt="Portfolio" />
+    <img src="https://user-images.githubusercontent.com/83513508/138871923-def73de7-067c-4008-a14a-d599bfde00d7.png" width="120" alt="Portfolio" />
   </a>
 
 <a href="https://www.youtube.com/channel/UCcW_tC_52WI9IwY-XkH3sDQ" title="Redirect to YouTube">
