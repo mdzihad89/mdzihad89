@@ -4,6 +4,13 @@
 
 <h3> I'm Zihad</h3>
 <h4 >I am a software developer and designer passionate about the mobile space. I enjoy building Mobile Applications using Kotlin & Flutter , design using Figma.I also enjoy improving my skills by learning new skills and applying them to new projects.</h4>
+
+* 📱 Working on Meaningful mobile apps 
+* 📸 Tech Youtuber [Coding With Zihad](https://www.youtube.com/channel/UCcW_tC_52WI9IwY-XkH3sDQ)
+* 💬 Ask me about ``Android``, ``UI/UX Design``, ``Design Systems``  & ``Freelancing Enquiries`` 
+* 📝 Open Source Contributor
+* 💌 Available for your next project
+
 <br />
 <details>
 <summary> Github Stats & Used Language</summary>
@@ -18,31 +25,25 @@
 ## Reach me via 👇
 <p float="left">
 
-<a href="https://www.youtube.com/c/insanedeveloper" title="Redirect to YouTube">
-    <img src="/assets/youtube.png" width="120" alt="YouTube" />
+<a href="https://www.youtube.com/channel/UCcW_tC_52WI9IwY-XkH3sDQ" title="Redirect to YouTube">
+    <img src="https://user-images.githubusercontent.com/83513508/138793639-5e2dd6fe-cbd7-4ef6-ad2f-1a27712b15ab.png" width="120" alt="YouTube" />
   </a>
   
-  <a href="https://twitter.com/sanjay_spikey" title="Redirect to Twitter">
-    <img src="/assets/twitter.png" width="120" alt="Twitter" />
+  <a href="https://www.linkedin.com/in/md-zihad-9286161a6/" title="Redirect to LinkedIn">
+    <img src="https://user-images.githubusercontent.com/83513508/138793638-47206484-3036-477f-bbc7-cf1f67cdb9e9.png" width="120" alt="LinkedIn" />
   </a>
   
-  <a href="https://www.linkedin.com/in/spikeysanju/" title="Redirect to LinkedIn">
-    <img src="/assets/linkedin.png" width="120" alt="LinkedIn" />
+  <a href="https://dribbble.com/md_zihad" title="Redirect to Dribbble">
+    <img src="https://user-images.githubusercontent.com/83513508/138793635-5f5a9516-5615-4979-b999-bb4b0a41e3bc.png" width="120" alt="Dribbble" />
   </a>
   
-  <a href="https://dribbble.com/spikeysanju" title="Redirect to Dribbble">
-    <img src="/assets/dribbble.png" width="120" alt="Dribbble" />
-  </a>
-  
-  <a href="https://www.instagram.com/insane.dvlpr/" title="Redirect to Instagram">
-    <img src="/assets/instagram.png" width="120" alt="Instagram" />
-  </a>
-
-  <a href="https://dev.to/sanjay_spikey" title="Redirect to Dev.To">
-    <img src="/assets/dev.png" width="120" alt="Dev.To" />
+  <a href="https://www.instagram.com/short_.circuits/" title="Redirect to Instagram">
+    <img src="https://user-images.githubusercontent.com/83513508/138793635-5f5a9516-5615-4979-b999-bb4b0a41e3bc.png" width="120" alt="Instagram" />
   </a>
 
 </p>
+
+## Projects made with ❤️ 👇
 
  
 
