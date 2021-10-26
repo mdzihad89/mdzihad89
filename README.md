@@ -34,7 +34,7 @@
   </a>
   
   <a href="https://dribbble.com/md_zihad" title="Redirect to Dribbble">
-    <img src="https://user-images.githubusercontent.com/83513508/138793635-5f5a9516-5615-4979-b999-bb4b0a41e3bc.png" width="120" alt="Dribbble" />
+    <img src="https://user-images.githubusercontent.com/83513508/138793641-0f69aca0-dd3e-4cfc-a2ea-48094cbbbe00.png" width="120" alt="Dribbble" />
   </a>
   
   <a href="https://www.instagram.com/short_.circuits/" title="Redirect to Instagram">
