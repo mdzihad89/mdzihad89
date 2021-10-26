@@ -3,7 +3,7 @@
 
 
 <h3> I'm Zihad</h3>
-<h4 >I am a software developer and designer passionate about the mobile space. I enjoy building Mobile Applications using Kotlin & Flutter , design using Figma.I also enjoy improving my skills by learning new skills and applying them to new projects.</h4>
+<h4 >I am a software developer and designer passionate about the mobile space, user exprience, innovative designs and user friendly apps.  I strive to bring transparency, accountability, and happiness into my work by developing an internally driven approach that results in highest quality products. I try to bring transparency, accountability, and happiness into my work by developing an internally driven approach that results in highest quality products. I enjoy building Mobile Applications using Kotlin & Flutter , design using Figma.I also enjoy improving my skills by learning new skills and applying them to new projects.</h4>
 
 * 📱 Working on Meaningful mobile apps 
 * 📸 Tech Youtuber [Coding With Zihad](https://www.youtube.com/channel/UCcW_tC_52WI9IwY-XkH3sDQ)
