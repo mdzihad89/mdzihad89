@@ -6,7 +6,6 @@
 <h4 >I am a software developer and designer passionate about the mobile space, user exprience, innovative designs and user friendly apps. I try to bring transparency, accountability, and happiness into my work by developing an internally driven approach that results in highest quality products. I enjoy building Mobile Applications using Kotlin & Flutter , design using Figma.I also enjoy improving my skills by learning new skills and applying them to new projects.</h4>
 
 * 📱 Working on Meaningful mobile apps 
-* 📸 Tech Youtuber [Coding With Zihad](https://www.youtube.com/channel/UCcW_tC_52WI9IwY-XkH3sDQ)
 * 💬 Ask me about ``Android``, ``UI/UX Design``, ``Design Systems``  do reach, [email](mailto:mdzihad321@gmail.com)
 * 📝 Open Source Contributor
 * 💌 Available for your next project
@@ -27,10 +26,6 @@
  
  <a href="http://mdzihad.unaux.com/" title="Redirect to Portfolio">
     <img src="https://user-images.githubusercontent.com/83513508/138871923-def73de7-067c-4008-a14a-d599bfde00d7.png" width="120" alt="Portfolio" />
-  </a>
-
-<a href="https://www.youtube.com/channel/UCcW_tC_52WI9IwY-XkH3sDQ" title="Redirect to YouTube">
-    <img src="https://user-images.githubusercontent.com/83513508/138793639-5e2dd6fe-cbd7-4ef6-ad2f-1a27712b15ab.png" width="120" alt="YouTube" />
   </a>
   
   <a href="https://www.linkedin.com/in/md-zihad-9286161a6/" title="Redirect to LinkedIn">
