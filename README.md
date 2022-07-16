@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" >Welcome To My Github Profile <img src="https://images.emojiterra.com/google/android-11/512px/1f468-1f4bb.png" width="30px"></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" >Welcome To My Github Profile <img src="https://images.emojiterra.com/google/android-11/512px/1f468-1f4bb.png" width="30px"></h1>
 
 ### I'm Zihad
 ### A Passionate Mobile App Developer & UI/UX Designer 
