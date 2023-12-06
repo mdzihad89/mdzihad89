@@ -21,23 +21,6 @@
  
 </details>
 
-## Reach me via 👇
-<p float="left">
- 
- <a href="https://mdzihad.netfy.me/" title="Redirect to Portfolio">
-    <img src="https://user-images.githubusercontent.com/83513508/138871923-def73de7-067c-4008-a14a-d599bfde00d7.png" width="120" alt="Portfolio" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/md-zihad-9286161a6/" title="Redirect to LinkedIn">
-    <img src="https://user-images.githubusercontent.com/83513508/138793638-47206484-3036-477f-bbc7-cf1f67cdb9e9.png" width="120" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://dribbble.com/md_zihad" title="Redirect to Dribbble">
-    <img src="https://user-images.githubusercontent.com/83513508/138793641-0f69aca0-dd3e-4cfc-a2ea-48094cbbbe00.png" width="120" alt="Dribbble" />
-  </a>
-
-</p>
-
 ## Projects made with ❤️ 👇
 
  
