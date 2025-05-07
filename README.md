@@ -3,7 +3,7 @@
 
 ### I'm Zihad
 ### A Passionate Mobile App Developer
-<h4 >I am a Mobile app developer (native and cross platform) passionate about user exprience, innovative designs and user friendly apps. I try to bring transparency, accountability, and happiness into my work by developing an internally driven approach that results in highest quality products. I enjoy building Mobile Applications using Kotlin & Flutter , backend using Node js. I also enjoy improving my skills by learning new skills and applying them to new projects.</h4>
+<h4 >I am a Mobile app developer (native and cross platform) passionate about user exprience, innovative designs and user friendly apps. I try to bring transparency, accountability, and happiness into my work by developing an internally driven approach that results in highest quality products. I enjoy building Mobile Applications using Kotlin & Flutter , backend using Node js.Currently exploring generative AI to further enhance mobile app capabilities.</h4>
 
 * 📱 Working on Meaningful mobile apps 
 * 💬 Ask me about ``Android``, ``Ios``, ``Design Systems``  do reach email ``mdzihad321@gmail.com``
